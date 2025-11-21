@@ -17,3 +17,5 @@ variable "storagem" {
     account_replication_type = string
   }))
 }
+
+variable "networkm" {}
