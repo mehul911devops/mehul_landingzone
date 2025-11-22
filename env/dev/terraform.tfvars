@@ -3,9 +3,7 @@ rgm = {
     name       = "iacrg1"
     location   = "northeurope"
     managed_by = "ProjectDev"
-    tags = {
-      env = "dev"
-    }
+ 
   }
 }
 
