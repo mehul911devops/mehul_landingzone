@@ -3,7 +3,7 @@ variable "rgm" {
         name = string
         location = string
         managed_by = optional(string)
-        tags = optional(string)
+  
 
     }))
 }
